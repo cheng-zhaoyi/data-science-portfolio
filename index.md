@@ -2,7 +2,7 @@
 
 CHENG ZHAOYI
 
-Data Science student · University of Macao · CISC7204
+Data Science student · University of Macau · CISC7204
 
 ## About Me
 
