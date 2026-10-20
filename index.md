@@ -1,8 +1,8 @@
 # My Data Science Portfolio
 
-**CHENG ZHAOYI**
-*Data Science student · CISC7204 · University of Macao*
----
+CHENG ZHAOYI
+
+Data Science student · University of Macao · CISC7204
 
 ## About Me
 
@@ -19,7 +19,6 @@ I am a data science student with a growing interest in turning messy real-world 
 Using \~265 years of monthly global land-surface temperature data (Berkeley Earth), I aggregated the record into annual means, computed temperature anomalies against the 1961–1990 baseline, and estimated warming rates by linear regression across different periods.
 
 
-
 **What the visualisation shows:** after a long period of relatively small fluctuation, land temperature rises sharply from around the 1980s onward — the fitted trend indicates **+0.047 °C per decade** across the full record, accelerating to **+0.27 °C per decade** since 1975 (roughly 4× faster). The 2010s are the warmest decade on record.
 
 |Key result|Value|
@@ -31,7 +30,7 @@ Using \~265 years of monthly global land-surface temperature data (Berkeley Eart
 
 **Project status:** ✅ completed
 
-**Source code \& full write-up:** cheng-zhaoyi/[data-science-project](https://github.com/%5Byour-username%5D/.data-science-project)
+**Source code \& full write-up:**[data-science-project](https://github.com/cheng-zhaoyi/data-science-project)
 
 \---
 
